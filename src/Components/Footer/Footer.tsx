@@ -1,6 +1,6 @@
 import React from "react";
 import { Body, FooterLink, MainDiv } from "./Style";
-
+//FOOTER
 export default function Footer() {
   return (
     <MainDiv>
